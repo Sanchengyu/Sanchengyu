@@ -4,7 +4,7 @@
 - 👀 I’m interested in Clinical Medicine, Radiation Oncology, Bioinformatics, Large Language Models, Deep Learning and Machine Learning.
 - 🌱 I’m currently learning Genomics, RNA-seq and scRNA using R and Python.
 - 💞️ I’m looking to collaborate on PhD in CS.
-- 📫 How to reach me 2391435178@qq.com
+- 📫 How to reach me 2391435178@qq.com/ 1810301343@bjmu.edu.cn
 
 
 <!---
